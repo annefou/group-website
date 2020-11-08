@@ -6,7 +6,7 @@ layout: page
  
 # {{ site.title }}
 
-# Description
+## Description
  
  {{ site.description }}
  
