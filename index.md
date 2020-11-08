@@ -3,7 +3,6 @@ lesson-example: https://carpentries.github.io/lesson-example/
 layout: page
 ---
 
-# {{ site.title }}
    
 ## Description
  {{ site.description }}
