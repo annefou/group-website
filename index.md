@@ -2,7 +2,6 @@
 lesson-example: https://carpentries.github.io/lesson-example/
 ---
 
-[![alt "Group Website with Jekyll"](images/site_banner.png)](index.md)
 
 # {{ site.title }}
    
