@@ -1,3 +1,5 @@
+{% include banner.html %}
+
 # About
    
    
