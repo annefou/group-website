@@ -2,7 +2,7 @@
 lesson-example: https://carpentries.github.io/lesson-example/
 ---
 
-{% include banner.html %}
+{% include banner.md %}
 
 # {{ site.title }}
    
