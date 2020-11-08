@@ -22,4 +22,3 @@ layout: page
     
 Twitter: [{{ site.twitter }}]({{ site.twitter }})   
 
-{% include contact.md %}
