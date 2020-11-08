@@ -1,4 +1,6 @@
-{% include banner.md %}
+---
+layout: page
+---
 
 # About
    
