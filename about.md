@@ -1,4 +1,4 @@
-{% include banner.html %}
+{% include banner.md %}
 
 # About
    
