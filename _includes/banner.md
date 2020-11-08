@@ -1,1 +1,0 @@
-[![alt "Group Website with Jekyll"](images/site_banner.png)](https://annefou.github.io/group-website/)
